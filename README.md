@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m qwangry
-- 🔭 You are the ![Visitor Count](https://profile-counter.glitch.me/qwangry/count.svg)th visitor！
+- 🌱 I’m qwangry~
+- 🔭 You are the ![Visitor Count](https://profile-counter.glitch.me/qwangry/count.svg)th visitor!
 
 - <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwangry&theme=radical&layout=compact"  />
 
