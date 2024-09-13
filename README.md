@@ -13,8 +13,8 @@
 
 ---
 
-![TOG](https://raw.githubusercontent.com/qwangry/generate/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![TOG](https://raw.githubusercontent.com/qwangry/generate/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+![TOG](https://raw.githubusercontent.com/qwangry/generate/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![TOG](https://raw.githubusercontent.com/qwangry/generate/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 ### views
