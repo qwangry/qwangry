@@ -10,14 +10,15 @@
 
 - <img align="center"  src="https://github-readme-stats.vercel.app/api?username=qwangry&show_icons=true&theme=radical"/>
 
+---
+
+![TOG](https://raw.githubusercontent.com/qwangry/qwangry/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![TOG](https://raw.githubusercontent.com/qwangry/qwangry/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
-![TOG](https://raw.githubusercontent.com/qwangry/generate/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![TOG](https://raw.githubusercontent.com/qwangry/generate/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
----
 ### views
+
 ![](https://komarev.com/ghpvc/?username=qwangry)
 
 <!--
