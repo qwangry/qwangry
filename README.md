@@ -1,12 +1,18 @@
 ### Hi there 👋
 
-- 🌱 I’m qwangry~
-- ✌️Welcome to visit [My Blog](https://qwangry.github.io/)
+- 🌱 I’m ✨**qwangry~**✨
+  
+- ✌️ Welcome to visit [✨**My Blog**✨](https://qwangry.github.io/)
+  
 - 🔭 You are the ![Visitor Count](https://profile-counter.glitch.me/qwangry/count.svg)th visitor!
+
+- 📫 Email：qwangry123@163.com
 
 ---
 
+<!--
 - <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwangry&theme=radical&layout=compact"  />
+-->
 
 - <img align="center"  src="https://github-readme-stats.vercel.app/api?username=qwangry&show_icons=true&theme=radical"/>
 
