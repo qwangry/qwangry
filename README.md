@@ -2,8 +2,6 @@
 
 - 🌱 I’m ✨**qwangry~**✨
   
-- ✌️ Welcome to visit [✨**My Blog**✨](https://qwangry.github.io/)
-  
 - 🔭 You are the ![Visitor Count](https://profile-counter.glitch.me/qwangry/count.svg)th visitor!
 
 - 📫 Email：qwangry123@163.com
@@ -21,8 +19,10 @@
     <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="25"/></code>
     <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="25"/></code>
   </p>
-
-- <p  align="left"> ✌️ Welcome to visit My✨ <a href="https://blog.csdn.net/wwang_123?spm=1010.2135.3001.5343"> <img src="https://img-home.csdnimg.cn/images/20240715064536.png" height="25px"> </a>✨
+  
+- 🎈 Welcome to visit [✨**My Github Blog**✨](https://qwangry.github.io/)
+  
+- <p  align="left"> 🍀 Welcome to visit My✨ <a href="https://blog.csdn.net/wwang_123?spm=1010.2135.3001.5343"> <img src="https://img-home.csdnimg.cn/images/20240715064536.png" height="25px"> </a>✨
 
 </p> 
 
