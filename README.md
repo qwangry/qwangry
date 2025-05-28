@@ -20,7 +20,7 @@
     <code><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="25"/></code>
   </p>
   
-- 👩‍💻 Resume：[✨**Resume**✨](https://my-portfolio-virid-gamma-63.vercel.app/)
+<!--  - 👩‍💻 Resume：[✨**Resume**✨](https://my-portfolio-virid-gamma-63.vercel.app/) -->
   
 - 🎈 Welcome to visit [✨**My Github Blog**✨](https://qwangry.github.io/)
   
